@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    background: #246ABBFF;
+}
+
+.first {
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    background: #246abb;
+    text-align: center;
+
+
+}
+
+.widg {
+    margin: 120px;
+    color: white;
+
+
+}
+
+.bloc {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.target {
+
+    width: 200px;
+    height: 200px;
+    background: #18467b;
+    border: 10px solid white;
+
+}
+
+.text {
+    margin: 50px;
+    color: white;
+}
+
+.contact {
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    background: #246abb;
+    text-align: center;
+}
+
+.text-contact {
+    margin: 120px;
+    color: white;
+}
+
+.card-skills {
+    display: flex;
+    justify-content:space-between ;
+   background-color: white;
+    height: 600px;
+
+
+}
+.header {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    background-color: #dce4e5;
+    height: 370px;
+    width:300px ;
+    border: 2px solid black;
+}
+.header>h2{margin-top: 90px;
+    text-align: center;
+}
+.header>p{
+    margin-left: 25px;
+}
+.learn{
+    margin-left: 70px;
+    width: 140px;
+    display: flex;
+    justify-content: center;
+    border:3px solid black;
+
+}
